@@ -1,0 +1,38 @@
+# ninja log v5
+4135	4434	7809503533458552	ConvexHullVisualizer.exe	9bfb73536770e341
+34	858	7809433406541715	Assignment_Lecture_4_autogen/timestamp	8b90dc92fa924307
+34	858	7809433406541715	Assignment_Lecture_4_autogen/mocs_compilation.cpp	8b90dc92fa924307
+34	858	7809433406541715	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	8b90dc92fa924307
+862	4287	7809433441711726	CMakeFiles/Assignment_Lecture_4.dir/main.cpp.obj	93c5c0c6bf61abb8
+34	858	7809433406541715	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	8b90dc92fa924307
+865	4335	7809433442191721	CMakeFiles/Assignment_Lecture_4.dir/drawingwindow.cpp.obj	f9b2831a1fa3953b
+859	4363	7809433442471717	CMakeFiles/Assignment_Lecture_4.dir/Assignment_Lecture_4_autogen/mocs_compilation.cpp.obj	e45440b485af0f42
+32	789	7809503496161937	ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+868	4486	7809433443681706	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	19f5bf6072bf3c59
+4486	4751	7809433446321717	Assignment_Lecture_4.exe	a2710bae6547c465
+36	1168	7809440052226881	build.ninja	71dfe8dd8a4befc4
+32	789	7809503496161937	ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+32	789	7809503496161937	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+32	789	7809503496161937	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+796	4039	7809503529541963	CMakeFiles/ConvexHullVisualizer.dir/drawingwindow.cpp.obj	fb49a557d90fd764
+790	4115	7809503530309234	CMakeFiles/ConvexHullVisualizer.dir/ConvexHullVisualizer_autogen/mocs_compilation.cpp.obj	a0d70da0f77a4c84
+888	5081	7809488119189461	CMakeFiles/ConvexHullVisualizer.dir/drawingcanvas.cpp.obj	44645dc915599b3b
+794	4135	7809503530516246	CMakeFiles/ConvexHullVisualizer.dir/main.cpp.obj	5e30d808b50a7fc
+33	172	7809508183549269	ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+33	172	7809508183549269	ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+33	172	7809508183549269	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+33	172	7809508183549269	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+184	2601	7809508210068967	CMakeFiles/ConvexHullVisualizer.dir/drawingwindow.cpp.obj	fb49a557d90fd764
+2601	2902	7809508213048141	ConvexHullVisualizer.exe	9bfb73536770e341
+31	174	7809509449736846	ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+31	174	7809509449736846	ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+31	174	7809509449736846	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+31	174	7809509449736846	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+185	2803	7809509478369148	CMakeFiles/ConvexHullVisualizer.dir/drawingwindow.cpp.obj	fb49a557d90fd764
+2803	3086	7809509481169356	ConvexHullVisualizer.exe	9bfb73536770e341
+11	170	7809515025602334	ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+11	170	7809515025602334	ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+11	170	7809515025602334	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/timestamp	86778a4a788d5738
+11	170	7809515025602334	C:/Users/User/OneDrive/Documents/Kerjaan/Kuliah/Semester 5/KomGraf/Assignment_Lecture_4/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConvexHullVisualizer_autogen/mocs_compilation.cpp	86778a4a788d5738
+182	3027	7809515056505487	CMakeFiles/ConvexHullVisualizer.dir/drawingcanvas.cpp.obj	44645dc915599b3b
+3027	3288	7809515059088442	ConvexHullVisualizer.exe	9bfb73536770e341
