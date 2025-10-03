@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ConvexHullVisualizer_FILE /home/deulgia/komgraf/convex-hull-assignment-Kriiif/build/Desktop-Debug/ConvexHullVisualizer)
+set(__QT_DEPLOY_TARGET_ConvexHullVisualizer_TYPE EXECUTABLE)

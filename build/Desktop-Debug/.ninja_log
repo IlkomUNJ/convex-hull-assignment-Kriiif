@@ -1,0 +1,10 @@
+# ninja log v6
+1	182	1759456767540208042	ConvexHullVisualizer_autogen/timestamp	70a2e58073f4e19b
+1	182	1759456767540208042	ConvexHullVisualizer_autogen/mocs_compilation.cpp	70a2e58073f4e19b
+1	182	1759456767540208042	/home/deulgia/komgraf/convex-hull-assignment-Kriiif/build/Desktop-Debug/ConvexHullVisualizer_autogen/timestamp	70a2e58073f4e19b
+1	182	1759456767540208042	/home/deulgia/komgraf/convex-hull-assignment-Kriiif/build/Desktop-Debug/ConvexHullVisualizer_autogen/mocs_compilation.cpp	70a2e58073f4e19b
+184	1398	1759456767548208222	CMakeFiles/ConvexHullVisualizer.dir/main.cpp.o	74b9297d3cc6c9ce
+184	1434	1759456767548702245	CMakeFiles/ConvexHullVisualizer.dir/drawingwindow.cpp.o	b293fe6927a513a2
+183	1436	1759456767547208199	CMakeFiles/ConvexHullVisualizer.dir/ConvexHullVisualizer_autogen/mocs_compilation.cpp.o	f4dcd27477f3cf0b
+184	1564	1759456767548883534	CMakeFiles/ConvexHullVisualizer.dir/drawingcanvas.cpp.o	4c759313d281743f
+1564	1726	1759456768929239283	ConvexHullVisualizer	2d0f5d18bc8d0e8f
